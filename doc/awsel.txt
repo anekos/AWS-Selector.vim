@@ -1,0 +1,21 @@
+*awsel.txt*	Set AWS_PROFILE and AWS_DEFAULT_REGION using popup menu
+
+Version: 0.1.0
+Author : anekos <thinca+vim@gmail.com>
+License: MIT License
+
+==============================================================================
+CONTENTS						*awsel-contents*
+
+Commands				|awsel-commands|
+
+
+
+==============================================================================
+Commands					*template-commands*
+
+:AWSel		*:AWSel*
+	Show popup menu to select profile and region.
+
+==============================================================================
+vim:tw=78:fo=tcq2mM:ts=8:ft=help:norl
