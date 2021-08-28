@@ -1,7 +1,7 @@
 *awsel.txt*	Set AWS_PROFILE and AWS_DEFAULT_REGION using popup menu
 
 Version: 0.1.0
-Author : anekos <thinca+vim@gmail.com>
+Author : anekos <vim@snca.net>
 License: MIT License
 
 ==============================================================================
